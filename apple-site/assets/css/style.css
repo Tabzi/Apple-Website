@@ -1,0 +1,55 @@
+.bg-purple {
+    background: #35283c;
+}
+
+.bg-purple-iphone {
+    width: 3008px;
+    height: 624px;
+    background-size: 3008px 624px;
+    background-repeat: no-repeat;
+    background: url(https://www.apple.com/v/home/aj/images/heroes/iphone-13/hero_iphone_13__f194u1rdooeq_large.jpg) center center;
+}
+
+.bg-valentine-iphone {
+    width: 3008px;
+    height: 624px;
+    background-size: 3008px 624px;
+    background-repeat: no-repeat;
+    background: url(https://www.apple.com/v/home/aj/images/heroes/valentines-day-last-chance/hero_vday22__bt5gpd2vjafm_large.jpg) center center;
+}
+
+.section-bg-style {
+    height: 624px;
+    background-size: 3008px 624px;
+    background-repeat: no-repeat;
+}
+
+.shot-iphone {
+
+    ;
+    background: url('../images/tile_soip__f0c6lef982em_large.jpg') center center;
+}
+
+.iphone-watch {
+
+    
+    background: url('../images/iphone-watch.jpg') center center
+    
+    ;
+}
+
+.iphone-watches {
+    background: url('../images/iphone-watches.jpg') center center;
+}
+
+.iphone-dark-watch {
+    background: url('https://www.apple.com/v/home/aj/images/promos/watch-black-unity/promo_watch__fo7j0tnywi2q_large.jpg') center center;
+}
+
+.icard {
+    background: url('../images/icard.jpg') center center;
+}
+
+.ipeople {
+    background: url('../images/ipeople.jpg') center center;
+}
